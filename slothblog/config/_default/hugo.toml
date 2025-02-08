@@ -39,6 +39,13 @@ enableRobotsTXT = true
     weight = 20
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+[outputs]
+    home = ["html"]
+    page = ["html", "rss"]
+    section = ["html"]
+    term = ["html"]
+    taxonomy = ["html"]
