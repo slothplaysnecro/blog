@@ -1,0 +1,10 @@
+[submodule "slothblog/themes/themes/hugo-bearcub"]
+	path = slothblog/themes/themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "slothblog/themes/themes/tailwind"]
+	path = slothblog/themes/themes/tailwind
+	url = https://github.com/tomowang/hugo-theme-tailwind.git
+[submodule "slothblog/public"]
+	path = slothblog/public
+	url = https://github.com/slothplaysnecro/slothplaysnecro.github.io.git
+	branch = main

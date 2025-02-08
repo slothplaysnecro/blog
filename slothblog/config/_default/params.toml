@@ -1,0 +1,12 @@
+[social_media]
+    [[social_media.items]]
+    enabled = true
+    title = 'Bluesky'
+    icon = 'brand-bluesky'
+    link = 'https://bsky.app/profile/sloth.direct'
+
+    [[social_media.items]]
+    enabled = true
+    title = 'Mastodon'
+    icon = 'user'
+    link = 'https://guild.pmdcollab.org/@sloth'
