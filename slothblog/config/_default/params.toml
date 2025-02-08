@@ -24,9 +24,11 @@ toc = false
     [[social_media.items]]
     enabled = true
     title = 'Mastodon'
-    icon = 'user'
+    icon = 'brand-mastodon'
     link = 'https://guild.pmdcollab.org/@sloth'
 
 [manifest]
     description = "It's not too late to turn back!"
 
+[pwa]
+    enabled = false

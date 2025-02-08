@@ -1,7 +1,7 @@
 baseURL = "https://sloth.direct/"
 title = "Sloth's Shitty Blog"
+copyright = "Sloth"
 author = "Sloth"
-copyright = ""
 pagination.pagerSize = 10
 languageCode = "en"
 theme = "tailwind"
@@ -19,7 +19,6 @@ enableRobotsTXT = true
 
   [params.header]
     logo = "logo.webp"
-
   [params.footer]
     since = 2025
     poweredby = true
@@ -44,8 +43,10 @@ enableRobotsTXT = true
     series = "series"
 
 [outputs]
-    home = ["html"]
-    page = ["html", "rss"]
-    section = ["html"]
-    term = ["html"]
-    taxonomy = ["html"]
+  home = ["html"]
+  page = ["html", "rss"]
+  section = ["html"]
+  term = ["html"]
+  taxonomy = ["html"]
+
+[params.search]
