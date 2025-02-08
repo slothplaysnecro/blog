@@ -1,6 +1,8 @@
 subtitle = "It's not too late to turn back!"
 keywords = ""
 
+toc = false
+
 [author]
     name = "Sloth"
     email = "sloth@sloth.direct"
