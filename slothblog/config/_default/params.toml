@@ -1,5 +1,5 @@
-subtitle = "It's not too late to turn back!"
 keywords = ""
+subtitle = "It's not too late to turn back!"
 
 toc = false
 
@@ -31,4 +31,7 @@ toc = false
     description = "It's not too late to turn back!"
 
 [pwa]
-    enabled = false
+    enabled = true
+
+    [pwa.manifest]
+        description = "Sloth's Shitty Blog"
