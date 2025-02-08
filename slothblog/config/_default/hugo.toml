@@ -43,8 +43,8 @@ enableRobotsTXT = true
     series = "series"
 
 [outputs]
-  home = ["html"]
-  page = ["html", "rss"]
+  home = ["html", "rss"]
+  page = ["html"]
   section = ["html"]
   term = ["html"]
   taxonomy = ["html"]
