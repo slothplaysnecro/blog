@@ -25,7 +25,7 @@ toc = false
     enabled = true
     title = 'Mastodon'
     icon = 'brand-mastodon'
-    link = 'https://guild.pmdcollab.org/@sloth'
+    link = 'https://guild.pmdcollab.org/@sloth?rel=me'
 
 [manifest]
     description = "It's not too late to turn back!"
