@@ -1,7 +1,7 @@
 +++
 author = "Sloth"
 title = "I Own a French Press Now"
-date = "2025-02-07"
+date = "2025-02-08"
 description = ""
 image = "images/peeweecoffee.png"
 +++
