@@ -1,6 +1,10 @@
 subtitle = "It's not too late to turn back!"
 keywords = ""
 
+[author]
+    name = "Sloth"
+    email = "sloth@sloth.direct"
+
 [header]
     logo = "logo.svg"
 
@@ -23,3 +27,4 @@ keywords = ""
 
 [manifest]
     description = "It's not too late to turn back!"
+

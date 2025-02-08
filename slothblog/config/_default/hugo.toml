@@ -1,10 +1,12 @@
 baseURL = "https://sloth.direct/"
 title = "Sloth's Shitty Blog"
 author = "Sloth"
-copyright = "Sloth"
+copyright = ""
 pagination.pagerSize = 10
 languageCode = "en"
 theme = "tailwind"
+enableEmoji = true
+enableRobotsTXT = true
 
 [markup]
   _merge = "deep"
