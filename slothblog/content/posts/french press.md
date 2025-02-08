@@ -3,7 +3,7 @@ author = "Sloth"
 title = "I Own a French Press Now"
 date = "2025-02-08"
 description = ""
-image = "images/peeweecoffee.png"
+image = "/images/peeweecoffee.png"
 +++
 
 ![A large French press on a wooden countertop.](/images/frenchpress.jpg)
