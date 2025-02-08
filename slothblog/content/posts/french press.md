@@ -3,6 +3,7 @@ author = "Sloth"
 title = "I Own a French Press Now"
 date = "2025-02-07"
 description = ""
+image = "images/peeweecoffee.png"
 +++
 
 ![A large French press on a wooden countertop.](/images/frenchpress.jpg)
@@ -20,8 +21,5 @@ I started off with a really tiny one I snagged for $10 on clearance at the groce
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/st571DYYTR8?si=FhhknWYZB6cmRqYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My only regret in switching to higher quality coffee is not being able to stomach shitty coffee anymore. Tim Horton's is barely drinkable. The coffee in my work's breakroom is probably poisoned. I am in a delicious hell of my own making, and my only solace is local coffee beans. The local grocery store stocks [Finger Lakes Coffee,](https://fingerlakescoffee.com/) which has a lot of different roasts. Everything I've tried so far is fantastic, but if I had to pick a favorite it'd be Blueberry Cobbler.
-
-![Pee Wee Herman in the crack PSA with a bag of coffee over the crack](/images/peeweecoffee.png)
-<sub>*this...is crack.*</sub>
 
 If any of this sounds appealing, you're one of us. There's no going back. Bask in your high-ish effort coffee as you pass the **peasants** stuck in the drive-thru line. You're better than them, for you have achieved enlightenment.
