@@ -178,7 +178,7 @@ I tell them to get out or I'll call the police. We lock up and go home.
 
 A day passes. He has called corporate and lied to them. My manager is furious, and will not listen to reason. The customer is always right.
 
-I am given a corrective action form and told to sign it.
+I am given a corrective action form and am told to sign it.
 
 I go home and start looking into trade school.
 
