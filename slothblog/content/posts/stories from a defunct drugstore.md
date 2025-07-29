@@ -80,7 +80,7 @@ All coupons go in a slot below the register. It fills up twice during the twelve
 
 ---
 
-I enter the store for my shift and look around for Jane. She is nowhere to be seen. Karen is also nowhere on the floor. I check in with the cashiers. Both of them are in the office with a man they've never seen before.
+I enter the store for my shift and look around for Jane. She is nowhere to be seen. Karen is also nowhere on the floor. I check in with the cashiers. Both of them are in the office with a man I've never seen before.
 
 They eventually emerge and Karen exits the building without speaking to anyone. I never see her again. Jane tells me that she has been fired and will not elaborate further. The strange man exits.
 
